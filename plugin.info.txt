@@ -1,0 +1,7 @@
+base   linotp
+author Cornelius Kölbel
+email  corny@cornelinux.de
+date   2013-10-19
+name   LinOTP Authentication Plugin
+desc   LinOTP Authentication Plugin allows to sign in to DokuWiki using 2FA with LinOTP
+url    http://www.linotp.org
