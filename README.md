@@ -17,3 +17,17 @@ Configure necessary plugin settings like:
 ...and select the plugin as active plugin.
 
 Now you can login with the tokens enrolled in LinOTP for the users.
+
+Troubleshooting
+===============
+
+You can revert to the originial auth plugin by editing the file conf/local.php:
+
+   $conf['authtype'] = 'authplain';
+
+
+Debug
+=====
+
+The auth plugin write some messages to the debug log.
+You can activate debugging in the dokuwiki settings.
