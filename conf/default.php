@@ -1,6 +1,6 @@
 <?php
-$conf["linotp_url"] = 'https://localhost/validate/check';
-$conf["linotp_realm"] = '';
-$conf["linotp_verify"] = 0;
-$conf["linotp_timeout"] = 5;
+$conf["privacyidea_url"] = 'https://localhost/validate/check';
+$conf["privacyidea_realm"] = '';
+$conf["privacyidea_verify"] = 0;
+$conf["privacyidea_timeout"] = 5;
 ?>

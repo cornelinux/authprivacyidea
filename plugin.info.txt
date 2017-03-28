@@ -1,7 +1,7 @@
-base   linotp
+base   privacyidea
 author Cornelius Kölbel
 email  corny@cornelinux.de
-date   2013-10-19
-name   LinOTP Authentication Plugin
-desc   LinOTP Authentication Plugin allows to sign in to DokuWiki using 2FA with LinOTP
-url    http://www.linotp.org
+date   2017-03-29
+name   privacyIDEA Authentication Plugin
+desc   privacyIDEA Authentication Plugin allows to sign in to DokuWiki using 2FA with privacyIDEA
+url    http://www.privacyidea.org

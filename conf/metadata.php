@@ -1,6 +1,6 @@
 <?php
-$meta["linotp_url"] = array('string');
-$meta["linotp_timeout"] = array('numeric');
-$meta["linotp_realm"] = array('string');
-$meta["linotp_verify"] = array('onoff');
+$meta["privacyidea_url"] = array('string');
+$meta["privacyidea_timeout"] = array('numeric');
+$meta["privacyidea_realm"] = array('string');
+$meta["privacyidea_verify"] = array('onoff');
 ?>
